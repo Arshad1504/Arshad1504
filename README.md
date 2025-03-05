@@ -24,7 +24,7 @@ I am a **Software Developer** with a strong foundation in **full-stack web devel
 
 ## 📫 Connect with Me
 - **LinkedIn:**[www.linkedin.com/in/arshad-alam](https://www.linkedin.com/in/arshad1504/)
-- **GitHub:** [github.com/Arshad1504](https://github.com/Arshsad1504)
+- **GitHub:** [github.com/Arshsad1504](https://github.com/Arshad1504)
 - **Email:** arshadalam8560365@gmail.com
 
 ### ⚡ Professional Interests
